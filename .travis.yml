@@ -19,3 +19,4 @@ after_success:
   - docker push sharmad6/multi-nginx
   - docker push sharmad6/multi-server
   - docker push sharmad6/multi-worker
+   
